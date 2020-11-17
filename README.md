@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/vantanova/vantanova/blob/main/GitBanner.png?raw=true"/>
 
 
-### Hi there 👋
+### Hi there! My name is Antonio, welcome to my repo! 
 
 <!--
 **vantanova/vantanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
