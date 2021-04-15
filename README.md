@@ -17,7 +17,7 @@
 
 
 
-Find me with these ⤵️
+👋 Find me with these ⤵️
 
 
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:antonio.aguilar@gmail.com)
