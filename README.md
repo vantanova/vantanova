@@ -9,7 +9,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=vantanova&hide=contribs&show_icons=true&theme=radical" />
 </a>
 
-👩‍💻 Tools: **VSCode, Git and GitHub.** 
+👩‍💻 Tools: **VSCode, Photoshop, Git and GitHub.** 
 
 
 🌟 Check out my portfolio [here](https://www.vantanova.com)
