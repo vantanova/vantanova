@@ -3,7 +3,7 @@
 
 ## Hi there! My name is Antonio, welcome to my repo! 
 
-🌜 Languages and Skills: **React.js, Flask, Express, JavaScript, Sequelize, Python, Redux, Docker, SQL, Git, HTML5, CSS3.**
+🌜 Languages and Skills: **React.js, Flask, Express, JavaScript, Sequelize, Python, Ruby, Ruby on Rails, Redux, Docker, SQL, Git, HTML5, CSS3.**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=vantanova&hide=contribs&show_icons=true&theme=radical" />
