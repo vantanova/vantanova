@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/vantanova/vantanova/blob/main/GitBanner.png?raw=true"/>
+<img align="center" src="https://camo.githubusercontent.com/d6c684e272dfca89e599b25fdee03d847881c72f52af372ef6d577a958a8814e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572"/>
 
 
 ## Hi there! My name is Antonio, welcome to my repo! 
