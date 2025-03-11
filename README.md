@@ -12,7 +12,6 @@
 
 I am a results driven Fullstack Software Engineer with a strong background in building scalable, high-performance web and mobile applications. With experience in React, TypeScript, Next.js, Redux, and React Native, I specialize in developing efficient, maintainable, and user-friendly interfaces.
 
-### SKILLS
 
 
 
